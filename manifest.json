@@ -1,0 +1,22 @@
+{
+  "name": "Mystic Vibe 每日占卜",
+  "short_name": "Mystic Vibe",
+  "description": "探索今日宇宙為你準備的指引，每日一抽塔羅占卜。",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f0c29",
+  "theme_color": "#0f0c29",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3601/3601844.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3601/3601844.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
